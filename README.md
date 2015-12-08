@@ -14,3 +14,5 @@ Tool for converting an existing relational database into a Neo4j property graph.
 1. `git submodule update`
 1. `npm install`
 1. `npm start`
+
+![](https://dl.dropboxusercontent.com/u/67572426/rdbms2neo4j.gif)
