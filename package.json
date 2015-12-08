@@ -1,0 +1,18 @@
+{
+  "name": "RDBMS2Neo4j",
+  "version": "0.0.1",
+  "description": "A command line application to import an existing relational database into a property graph in Neo4j",
+  "author": "William Lyon <william.lyon@neotechnology.com>",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "vorpal": "^1.3.34",
+    "request": "~2.67.0",
+    "neo4j": "2.0.0-RC2",
+    "async": "~1.5.0",
+    "lodash": "~3.10.1",
+    "inquirer": "~0.11.0"
+
+  }
+}
